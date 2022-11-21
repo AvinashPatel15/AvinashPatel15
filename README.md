@@ -1,16 +1,117 @@
-### Hi there 👋
+<h1 align="center">Hi, Avinash Patel Here!!👋</h1>
+<h3 align="center"> Aspiring Full Stack Developer</h3>
+<p align="center">
+-   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
+-   🤝 Any type of Project Proposal is invited. <br/>
+-   ⚡ For fun, I socialize on Discord. <br/>
+</p>
+<p align="center">
+-<div> <p align="center">
+- Half way to Full Stack MERN Dev. <br/>
 
-<!--
-**AvinashPatel15/AvinashPatel15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
 
-Here are some ideas to get you started:
+  ![age](https://img.shields.io/badge/age-21-blue&height="20")
+  ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> :pencil:My (TOOL,TECH & Specifications) 🛠️:</h3>
+
+<div align='center' style="display: flex;" >
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+
+</div>
+
+<h3 align="center"> :pencil: Familiar IDEs & Deployment sites 🛠️:</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-FF6C37?style=for-the-badge&logo=Matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plc-FF6C37?style=for-the-badge&logo=Plc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scada-FF6C37?style=for-the-badge&logo=Scada&logoColor=white" />
+  
+</div>
+
+---
+
+
+
+<h3 align="center"> My GitHub Stats 📈:</h3>
+
+<div align="center" style:"display: flex;">
+<img alt="Debasis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashPatel15&theme=react&hide_border=true&bg_color=##FF9E0F"/>
+
+ </div>
+
+<div align="center" style:"display: flex;">
+  <img width="450px" height="200px" alt="Debasis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvinashPatel15&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  <img width="300px" height="200px" alt="DEBASIS TRIPATHY's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatel15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+  <h3 align="center">Want To Get In Touch? Reach Out To Me On :</h3>
+  <h4 align="center"> 👇 </h4>
+  
+<div align="center" style:"display: flex;">
+   <div align="center" style:"display: flex;">
+      <a href="mailto:avinashpatel9755@gmail.com">
+      <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a> 
+   </div>
+   <div align="center" style:"display: flex;">
+     <a href="https://www.linkedin.com/in/avinash-patel-23a265237/">
+      <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=red">
+     </a>
+   </div>
+</div>
+
+
+<p align="center">
+  You can Support my work by Sharing and giving a ⭐ to my repositories
+ <div align="center">
+   Also, you can fork the repositories if you want.
+ </div>
+
+</p>
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=AvinashPatel&label=Profile%20views&color=0e75b6&style=flat" alt="AvinashPatel15" />
+</div>
+ 
+<div>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
+  <p align="center"> <a href="https://github.com/AvinashPatel15"><img src="https://github-profile-trophy.vercel.app/?username=AvinashPatel15&margin-w=5&theme=radical" alt="Avinash" /></a> </p>
+</div>
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashPatel&theme=github_dark" alt="Avinash Patel" align = "center"/></p>
+</div>
+
+<div align="center">
+  <h3>Best of My Works</h3>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Real-Time-DataBaseTransactionSystem&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Licious&theme=react&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Project1&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=ASOS_Project&theme=react&langs_count=5"/>
+</div>
