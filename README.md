@@ -11,8 +11,8 @@
 
 <div align='center'>
 
-  ![age](https://img.shields.io/badge/age-21-blue&height="20")
-  ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
+  ![Fge](https://img.shields.io/badge/age-21-blue&height="20")
+  ![Focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
 </div>
 
 <h3 align="center"> :pencil:My (TOOL,TECH & Specifications) 🛠️:</h3>
@@ -76,6 +76,11 @@
    <div align="center" style:"display: flex;">
      <a href="https://www.linkedin.com/in/avinash-patel-23a265237/">
       <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=red">
+     </a>
+   </div>
+  <div align="center" style:"display: flex;">
+     <a href="https://avinashpatel15.github.io/">
+      <img src="https://www.clipartmax.com/png/middle/149-1497001_ap-exam-logo-ap-design-logo.png&logo=portfolio&logoColor=red">
      </a>
    </div>
 </div>
