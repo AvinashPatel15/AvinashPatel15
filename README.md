@@ -103,15 +103,10 @@
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/AvinashPatel15"><img src="https://github-profile-trophy.vercel.app/?username=AvinashPatel15&margin-w=5&theme=radical" alt="Avinash" /></a> </p>
 </div>
-<div>
-  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
-  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashPatel&theme=github_dark" alt="Avinash Patel" align = "center"/></p>
-</div>
 
 <div align="center">
   <h3>Best of My Works</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Real-Time-DataBaseTransactionSystem&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Licious&theme=react&langs_count=5"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Project1&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=ASOS_Project&theme=react&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Youtube-Clone&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=waiting-knife-3384&theme=react&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=flaky-range-6356&theme=react"/>
 </div>
