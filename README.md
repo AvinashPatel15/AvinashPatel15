@@ -78,11 +78,6 @@
       <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=red">
      </a>
    </div>
-  <div align="center" style:"display: flex;">
-     <a href="https://avinashpatel15.github.io/">
-      <img src="https://www.clipartmax.com/png/middle/149-1497001_ap-exam-logo-ap-design-logo.png&logo=portfolio&logoColor=red">
-     </a>
-   </div>
 </div>
 
 
