@@ -4,10 +4,8 @@
 -   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
 -   🤝 Any type of Project Proposal is invited. <br/>
 -   ⚡ For fun, I socialize on Discord. <br/>
+-    Half way to Full Stack MERN Dev. <br/>
 </p>
-<p align="center">
--<div> <p align="center">
-- Half way to Full Stack MERN Dev. <br/>
 
 <div align='center'>
 
