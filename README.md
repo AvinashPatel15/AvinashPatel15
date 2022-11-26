@@ -13,6 +13,11 @@
 
   ![Fge](https://img.shields.io/badge/age-21-blue&height="20")
   ![Focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
+  
+</div>
+
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=AvinashPatel&label=Profile%20views&color=0e75b6&style=flat" alt="AvinashPatel15" />
 </div>
 
 <h3 align="center"> :pencil:My (TOOL,TECH & Specifications) 🛠️:</h3>
@@ -52,7 +57,7 @@
 <h3 align="center"> My GitHub Stats 📈:</h3>
 
 <div align="center" style:"display: flex;">
-<img alt="Debasis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashPatel15&theme=react&hide_border=true&bg_color=##FF9E0F"/>
+<img alt="Avinash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashPatel15&theme=react&hide_border=true&bg_color=##FF9E0F"/>
 
  </div>
 
@@ -86,12 +91,7 @@
  <div align="center">
    Also, you can fork the repositories if you want.
  </div>
-
 </p>
-<div align="center"> 
- <img src="https://komarev.com/ghpvc/?username=AvinashPatel&label=Profile%20views&color=0e75b6&style=flat" alt="AvinashPatel15" />
-</div>
- 
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/AvinashPatel15"><img src="https://github-profile-trophy.vercel.app/?username=AvinashPatel15&margin-w=5&theme=radical" alt="Avinash" /></a> </p>
