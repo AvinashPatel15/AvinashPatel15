@@ -63,8 +63,6 @@
 
 <div align="center" style:"display: flex;">
   <img width="450px" height="200px" alt="Avinash Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvinashPatel15&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="300px" height="200px" alt="Avinash Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatel15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
 </div>
 
 ---
