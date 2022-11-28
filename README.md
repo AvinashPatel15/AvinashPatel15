@@ -96,10 +96,3 @@
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/AvinashPatel15"><img src="https://github-profile-trophy.vercel.app/?username=AvinashPatel15&margin-w=5&theme=radical" alt="Avinash" /></a> </p>
 </div>
-
-<div align="center">
-  <h3>Best of My Works</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=Youtube-Clone&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=waiting-knife-3384&theme=react&langs_count=5"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashPatel15&repo=flaky-range-6356&theme=react"/>
-</div>
